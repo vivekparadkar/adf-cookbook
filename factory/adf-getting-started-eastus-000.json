@@ -1,0 +1,9 @@
+{
+	"name": "adf-getting-started-eastus-000",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6498ff71-a049-4f96-9f95-34b62f78689d",
+		"tenantId": "469812c6-6ce1-4dde-b3af-9cee5e2945e0"
+	}
+}
